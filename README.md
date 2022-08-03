@@ -22,7 +22,7 @@ istediğinizi tartışmak için bir konu açınız.
 # License 
 
 
-![MIT](https://choosealicense.com/licenses/mit/)
+[MİT](https://choosealicense.com/licenses/mit/)
 
 ----------------------------------------------
 
